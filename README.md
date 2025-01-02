@@ -15,6 +15,9 @@ Still a work in progress, in future I will add:
 Program runs a euler-maryuma process for St and ln(St), as well as using milstein corrections for both.
 Then compares price and timings for different grid sizes for the discretisations in a final output table.
 
+paper for reference:
+https://www.frouah.com/finance%20notes/Euler%20and%20Milstein%20Discretization.pdf
+
 Todo:
 - add Fourier price
 
